@@ -3,7 +3,7 @@
 - 🤔 Research : AI in Healthcare
 - 🔭 Work : I'm working on application of foundation models in audiology
 - 😄 Hobbies : Software and Nature lover
-- 📫 Websites : [Hello World!🌎](https://debabratamishra.github.io/)
+- 📫 Websites : [Hello World 🌎](https://debabratamishra.github.io/)
 <!--
 **debabratamishra/debabratamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
