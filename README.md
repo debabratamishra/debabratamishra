@@ -2,7 +2,7 @@
 - 🌱 I studied MS in Artificial Intelligence at Monash University, Australia
 - 🤔 Research : AI in Neuroscience
 - 😄 Hobbies : Software and Nature lover
-- 📫 Websites : Under construction
+- 📫 Websites : [Hello World](https://debabratamishra.github.io/)
 <!--
 **debabratamishra/debabratamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
