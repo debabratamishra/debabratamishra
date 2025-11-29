@@ -1,8 +1,8 @@
-### Hi there 👋 I'm a Machine Learning Research Engineer
-- I studied MS in Artificial Intelligence at Monash University, Australia
+### Hi there 👋 I'm a Senior Data Scientist
+- I currently work at Commonwealth Bank of Australia in Sydney
 - I have 6 years of experience working with Machine Learining, Deep Learning and Reinforcement Learning algorithms and turning them into real-world solutions
-- I currently work at National Acoustic Laboratories in Sydney
-- Previously, I have worked at Monash University, Capillary Technologies and Tata Consultancy Services
+- I studied MS in Artificial Intelligence at Monash University, Australia
+- Previously, I have worked at National Acoustic Laboratories, Monash University, Capillary Technologies and Tata Consultancy Services
 - Websites : [Hello World 🌎](https://debabratamishra.github.io/)
 <!--
 **debabratamishra/debabratamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
